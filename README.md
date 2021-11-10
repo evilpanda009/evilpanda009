@@ -19,7 +19,24 @@ Here are some ideas to get you started: -->
 - 🌠 I have worked on Android Development in native Android as well as Flutter
 - 🤖 Interested in controls, automation and perception for Robotics
 
+<br />
+
+## 🧰 Toolbox  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" alt="Android" width="30" height="30"/>&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>&nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" alt="Java" width="30" height="30"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="Python" width="30" height="30"/> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/482px-Ros_logo.svg.png" alt="ROS" width="110" height="28"/>  
+  
+<br /><br />
+
+
+
+
 ![Siddh's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilpanda009&show_icons=true&theme=synthwave)  
+
+
   
 
 
