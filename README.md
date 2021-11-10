@@ -14,9 +14,9 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 --> 
 
-#### I'm Siddh, a Second Year EEE Undergrad at BITS Pilani, Goa Campus. 
+#### I'm Siddh, Second Year EEE Undergrad at BITS Pilani, Goa Campus. 
 - 🌱 I’m currently exploring Deep Learning for computer vision
-- 🌠 I have worked on Android Development including native Android as well as Flutter
+- 🌠 I have worked on Android Development in native Android as well as Flutter
 - 🤖 Interested in controls, automation and perception for Robotics
 
 ![Siddh's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilpanda009&show_icons=true&theme=synthwave)  
