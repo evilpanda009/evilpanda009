@@ -15,10 +15,8 @@ Here are some ideas to get you started: -->
 --> 
 
 #### I'm Siddh, Pre-Final Year Undergrad at BITS Pilani, Goa Campus. 
-- 🌱 I’m currently exploring Deep Learning for computer vision
-- 📲 I have worked on Android Development in native Android as well as Flutter
-- 🔮 Interested in controls, automation and perception for Robotics
-- 👯 Looking to collaborate on Open Source Development or Research Projects
+- 🔮 Interested in Computer Vision and Robotic Perception.
+- 🤝 Looking to collaborate on Open Source Development or Research Projects
 
 <br />
 
