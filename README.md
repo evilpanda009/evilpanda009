@@ -15,9 +15,7 @@ Here are some ideas to get you started: -->
 --> 
 
 #### I'm Siddh
-- 🔮 Interested in Computer Vision and Robotic Perception.
-- 🤝 Looking to collaborate on Open Source Development or Research Projects
-- 🖋️ Experience with fullstack web and app development.
+- Build, code, repeat
 
 <br />
 
